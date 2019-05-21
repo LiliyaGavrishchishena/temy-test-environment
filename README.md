@@ -126,3 +126,15 @@ List should be updated each time after adding new user.
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 - [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
 - [API Testing using Postman](https://medium.com/aubergine-solutions/api-testing-using-postman-323670c89f6d)
+
+You can setup this app on your local-machine:
+In the project directory, you can run:
+
+git clone https://...
+
+yarn install
+cd server
+yarn start
+
+cd src
+yarn start

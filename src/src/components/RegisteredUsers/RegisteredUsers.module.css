@@ -1,0 +1,12 @@
+.title {
+  color: #aa00ff;
+  text-align: center;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font: 400 13.3333px Arial;
+  line-height: 1.5;
+}
